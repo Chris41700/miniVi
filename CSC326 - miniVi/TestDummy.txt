@@ -3,4 +3,4 @@ void main(int, int) {
  x = 3;
  y = 7;
  cout << x + y;
-} pain
+} 
