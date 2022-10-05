@@ -2,6 +2,8 @@
 A miniVi text editor C++ program that allows users to edit text files similarly to a Vi text editor by using commands to remove characters, delete lines, undo changes, move the cursor, save the file, and exit.
 
 ## How to install & run
+Clone the repository to Microsoft Visual Studio
+
 
 ### First Iteration
 - [x] Read lines from file
