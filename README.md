@@ -3,7 +3,8 @@ A miniVi text editor C++ program that allows users to edit text files similarly 
 
 ## How to install & run
 Clone the repository to Microsoft Visual Studio
-
+Go to Projects >> CSC326 - miniVi Properties >> Debugging >> Add TestDummy.txt to Command Arguments
+Go to Build >> Rebuild Solution
 
 ### First Iteration
 - [x] Read lines from file
