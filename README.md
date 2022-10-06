@@ -14,9 +14,10 @@ Go to Build >> Rebuild Solution</br>
 - (h) - move cursor left
 - (l) - move cursor right
 - (u) - undo changes
-- (q) - quit
+- (q) - quit (no changes)
 - (:) - command mode
 - (:w) - save file
+- (:q) - quit (with changes)
 
 ## Project Iterations
 ### First Iteration
