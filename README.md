@@ -2,10 +2,10 @@
 A miniVi text editor C++ program that allows users to edit text files similarly to a Vi text editor by using commands to remove characters, delete lines, undo changes, move the cursor, save the file, and exit.
 
 ## How to install & run
-Download [Microsoft Visual Studio](https://visualstudio.microsoft.com/) </br>
-Clone the repository from Github </br>
-Go to Projects >> CSC326 - miniVi Properties >> Debugging >> Add TestDummy.txt to Command Arguments </br>
-Go to Build >> Rebuild Solution & Run </br>
+- Download [Microsoft Visual Studio](https://visualstudio.microsoft.com/) 
+- Clone the repository from Github 
+- Go to Projects >> CSC326 - miniVi Properties >> Debugging >> Add TestDummy.txt to Command Arguments
+- Go to Build >> Rebuild Solution & Run 
 
 ## Keyboard Commands
 - (x) - delete character
